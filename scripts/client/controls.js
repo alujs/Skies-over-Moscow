@@ -1,6 +1,6 @@
 var Player = function() {
 	this.x = 400;
-	this.y = 900;
+	this.y = 600;
 	this.lives = 1;
 	this.src = "";
   this.bcount = 0;
