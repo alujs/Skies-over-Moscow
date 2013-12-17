@@ -1,0 +1,25 @@
+To do list:
+
+[]scrolling back ground, moving clouds
+	[] Title 
+	[] Start
+	[] Warp Bar
+	[] Shield Bar
+	[] bullets
+	[] beams
+	[] Music 
+	[] Sounds
+
+[]study up on D3js 
+
+[]figure out layout of the game 
+   [?] proceedural generation
+   [?] Interval based
+   [] Boss Class
+   [] Monster Class
+
+[]create a nodejs server and index html page
+	[] Start page
+	[] Game page
+	[] Stats Page
+
